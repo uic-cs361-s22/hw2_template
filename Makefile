@@ -1,5 +1,5 @@
 pick-C:
-	rm -rf rust
+	git rm -rf rust
 pick-rust:
-	rm -rf C
+	git rm -rf C
 
