@@ -1,5 +1,5 @@
-C:
+pick-C:
 	rm -rf rust
-rust:
+pick-rust:
 	rm -rf C
 
